@@ -1,1 +1,1 @@
-# linkedevents-theme-ep-kalenteri
+# metatavu theme for linkedevents
